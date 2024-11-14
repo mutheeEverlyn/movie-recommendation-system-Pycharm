@@ -1,0 +1,12 @@
+# PyCharm files
+.idea/
+*.iml
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Other system files
+.DS_Store
